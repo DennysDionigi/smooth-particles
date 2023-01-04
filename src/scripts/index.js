@@ -1,6 +1,6 @@
 //import ready from 'domready';
 
-import App from './App';
+import App from './App.js';
 
 /*ready(() => {
 	window.app = new App();
