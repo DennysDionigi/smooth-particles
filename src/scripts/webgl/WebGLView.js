@@ -1,4 +1,7 @@
-import '/three';
+//import 'three';
+
+import * as THREE from 'three';
+
 import InteractiveControls from './controls/InteractiveControls.js';
 import Particles from './particles/Particles.js';
 
