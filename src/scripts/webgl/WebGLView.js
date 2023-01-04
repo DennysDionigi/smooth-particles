@@ -1,6 +1,6 @@
 import '/three';
-import InteractiveControls from './controls/InteractiveControls';
-import Particles from './particles/Particles';
+import InteractiveControls from './controls/InteractiveControls.js';
+import Particles from './particles/Particles.js';
 
 export default class WebGLView {
 
