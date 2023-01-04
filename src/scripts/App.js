@@ -1,5 +1,5 @@
-import WebGLView from './webgl/WebGLView.js';
-import GUIView from './gui/GUIView.js';
+import WebGLView from './webgl/WebGLView';
+import GUIView from './gui/GUIView';
 
 export default class App {
 
