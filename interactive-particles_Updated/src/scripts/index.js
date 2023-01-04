@@ -1,8 +1,15 @@
-import ready from 'domready';
+//import ready from 'domready';
 
 import App from './App';
 
-ready(() => {
+/*ready(() => {
 	window.app = new App();
 	window.app.init();
-});
+});*/
+
+
+window.onload=()=>{
+
+	window.app = new App();
+	window.app.init();
+}
