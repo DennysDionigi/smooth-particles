@@ -1,4 +1,4 @@
-import 'three';
+import '/three';
 import InteractiveControls from './controls/InteractiveControls';
 import Particles from './particles/Particles';
 
