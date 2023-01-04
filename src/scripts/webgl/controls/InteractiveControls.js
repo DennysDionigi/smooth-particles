@@ -1,6 +1,6 @@
-import EventEmitter from '/events';
+import EventEmitter from 'events';
 import * as THREE from 'three';
-import browser from '/browser-detect';
+import browser from 'browser-detect';
 
 import { passiveEvent } from '../../utils/event.utils.js';
 
